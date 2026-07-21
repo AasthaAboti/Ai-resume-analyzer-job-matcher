@@ -1,0 +1,51 @@
+{
+    "Data Analyst": ["Python", "SQL", "Excel", "Power BI", "Tableau", "Statistics", "Data Analysis", "Data Visualization"],
+
+    "Data Scientist": ["Python", "SQL", "Pandas", "NumPy", "Scikit-learn", "Machine Learning", "Statistics", "Data Visualization"],
+
+    "Machine Learning Engineer": ["Python", "Machine Learning", "Scikit-learn", "TensorFlow", "PyTorch", "NumPy", "Pandas"],
+
+    "AI Engineer": ["Python", "TensorFlow", "PyTorch", "Machine Learning", "Deep Learning", "Generative AI"],
+
+    "Deep Learning Engineer": ["Python", "TensorFlow", "PyTorch", "Deep Learning", "Machine Learning"],
+
+    "NLP Engineer": ["Python", "Natural Language Processing", "Machine Learning", "TensorFlow", "PyTorch"],
+
+    "Computer Vision Engineer": ["Python", "OpenCV", "Deep Learning", "TensorFlow", "PyTorch"],
+
+    "Business Analyst": ["Excel", "SQL", "Power BI", "Tableau", "Data Analysis"],
+
+    "Business Intelligence Analyst": ["SQL", "Power BI", "Tableau", "Excel", "Data Visualization"],
+
+    "Software Engineer": ["Python", "Java", "C++", "Git", "GitHub", "SQL"],
+
+    "Backend Developer": ["Python", "Django", "Flask", "FastAPI", "REST API", "SQL"],
+
+    "Frontend Developer": ["HTML", "CSS", "JavaScript", "React"],
+
+    "Full Stack Developer": ["HTML", "CSS", "JavaScript", "React", "Python", "Django", "SQL"],
+
+    "Python Developer": ["Python", "Flask", "Django", "FastAPI", "SQL"],
+
+    "Cloud Engineer": ["AWS", "Azure", "Google Cloud Platform", "Docker", "Linux"],
+
+    "DevOps Engineer": ["Docker", "Kubernetes", "Linux", "Git", "AWS"],
+
+    "Database Administrator": ["SQL", "MySQL", "PostgreSQL", "MongoDB"],
+
+    "Data Engineer": ["Python", "SQL", "Spark", "Hadoop", "AWS"],
+
+    "Big Data Engineer": ["Spark", "Hadoop", "Python", "SQL"],
+
+    "QA Automation Engineer": ["Python", "Selenium", "Git"],
+
+    "Cyber Security Analyst": ["Linux", "Python"],
+
+    "Research Assistant": ["Python", "Machine Learning", "Deep Learning", "Statistics"],
+
+    "BI Developer": ["Power BI", "SQL", "Excel", "Data Visualization"],
+
+    "Analytics Engineer": ["SQL", "Python", "Power BI", "Tableau"],
+
+    "Prompt Engineer": ["Python", "Generative AI", "Natural Language Processing"]
+}

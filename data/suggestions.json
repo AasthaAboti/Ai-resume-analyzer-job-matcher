@@ -1,0 +1,252 @@
+{
+  "Python": {
+    "course": "Python for Data Science",
+    "project": "Build an Expense Tracker",
+    "difficulty": "Beginner"
+  },
+  "SQL": {
+    "course": "Advanced SQL",
+    "project": "Employee Database Management System",
+    "difficulty": "Beginner"
+  },
+  "Excel": {
+    "course": "Advanced Excel",
+    "project": "Sales Dashboard",
+    "difficulty": "Beginner"
+  },
+  "Power BI": {
+    "course": "Power BI Fundamentals",
+    "project": "Interactive Business Dashboard",
+    "difficulty": "Beginner"
+  },
+  "Tableau": {
+    "course": "Tableau Desktop",
+    "project": "COVID-19 Data Dashboard",
+    "difficulty": "Beginner"
+  },
+  "Pandas": {
+    "course": "Pandas for Data Analysis",
+    "project": "Netflix Data Analysis",
+    "difficulty": "Intermediate"
+  },
+  "NumPy": {
+    "course": "NumPy Essentials",
+    "project": "Scientific Calculator",
+    "difficulty": "Intermediate"
+  },
+  "Matplotlib": {
+    "course": "Data Visualization with Matplotlib",
+    "project": "Student Performance Charts",
+    "difficulty": "Intermediate"
+  },
+  "Seaborn": {
+    "course": "Statistical Visualization",
+    "project": "Titanic Dataset Visualization",
+    "difficulty": "Intermediate"
+  },
+  "Scikit-learn": {
+    "course": "Machine Learning with Scikit-learn",
+    "project": "House Price Prediction",
+    "difficulty": "Intermediate"
+  },
+  "Machine Learning": {
+    "course": "Machine Learning Fundamentals",
+    "project": "Employee Salary Prediction",
+    "difficulty": "Intermediate"
+  },
+  "Deep Learning": {
+    "course": "Deep Learning Fundamentals",
+    "project": "Handwritten Digit Recognition",
+    "difficulty": "Advanced"
+  },
+  "TensorFlow": {
+    "course": "TensorFlow Fundamentals",
+    "project": "Image Classification Model",
+    "difficulty": "Advanced"
+  },
+  "PyTorch": {
+    "course": "PyTorch Bootcamp",
+    "project": "Cat vs Dog Classifier",
+    "difficulty": "Advanced"
+  },
+  "Natural Language Processing": {
+    "course": "NLP Basics",
+    "project": "Sentiment Analysis",
+    "difficulty": "Advanced"
+  },
+  "Computer Vision": {
+    "course": "Computer Vision Fundamentals",
+    "project": "Face Mask Detection",
+    "difficulty": "Advanced"
+  },
+  "Statistics": {
+    "course": "Statistics for Data Science",
+    "project": "A/B Testing Analysis",
+    "difficulty": "Intermediate"
+  },
+  "Data Visualization": {
+    "course": "Data Visualization",
+    "project": "Global Sales Dashboard",
+    "difficulty": "Intermediate"
+  },
+  "Git": {
+    "course": "Git & GitHub",
+    "project": "Upload Portfolio Projects",
+    "difficulty": "Beginner"
+  },
+  "GitHub": {
+    "course": "GitHub Essentials",
+    "project": "Professional GitHub Portfolio",
+    "difficulty": "Beginner"
+  },
+  "Docker": {
+    "course": "Docker Fundamentals",
+    "project": "Containerize a Flask App",
+    "difficulty": "Intermediate"
+  },
+  "AWS": {
+    "course": "AWS Cloud Practitioner",
+    "project": "Deploy a Flask Application",
+    "difficulty": "Intermediate"
+  },
+  "Azure": {
+    "course": "Azure Fundamentals",
+    "project": "Deploy a Web App",
+    "difficulty": "Intermediate"
+  },
+  "Google Cloud": {
+    "course": "Google Cloud Fundamentals",
+    "project": "Cloud Storage Project",
+    "difficulty": "Intermediate"
+  },
+  "Linux": {
+    "course": "Linux Basics",
+    "project": "Linux Shell Automation",
+    "difficulty": "Beginner"
+  },
+  "Java": {
+    "course": "Core Java",
+    "project": "Library Management System",
+    "difficulty": "Beginner"
+  },
+  "C++": {
+    "course": "C++ Programming",
+    "project": "Bank Management System",
+    "difficulty": "Beginner"
+  },
+  "JavaScript": {
+    "course": "Modern JavaScript",
+    "project": "Weather App",
+    "difficulty": "Intermediate"
+  },
+  "HTML": {
+    "course": "HTML5",
+    "project": "Portfolio Website",
+    "difficulty": "Beginner"
+  },
+  "CSS": {
+    "course": "CSS3",
+    "project": "Responsive Landing Page",
+    "difficulty": "Beginner"
+  },
+  "React": {
+    "course": "React JS",
+    "project": "Task Management App",
+    "difficulty": "Intermediate"
+  },
+  "Flask": {
+    "course": "Flask Web Development",
+    "project": "Resume Analyzer API",
+    "difficulty": "Intermediate"
+  },
+  "Django": {
+    "course": "Django Framework",
+    "project": "Blog Website",
+    "difficulty": "Intermediate"
+  },
+  "FastAPI": {
+    "course": "FastAPI",
+    "project": "REST API for Resume Analyzer",
+    "difficulty": "Intermediate"
+  },
+  "MongoDB": {
+    "course": "MongoDB Basics",
+    "project": "Student Database",
+    "difficulty": "Intermediate"
+  },
+  "MySQL": {
+    "course": "MySQL Database",
+    "project": "Inventory Management System",
+    "difficulty": "Beginner"
+  },
+  "PostgreSQL": {
+    "course": "PostgreSQL Essentials",
+    "project": "Employee Database",
+    "difficulty": "Intermediate"
+  },
+  "Data Structures": {
+    "course": "Data Structures",
+    "project": "Library Management System",
+    "difficulty": "Intermediate"
+  },
+  "Algorithms": {
+    "course": "Algorithms",
+    "project": "Path Finding Visualizer",
+    "difficulty": "Intermediate"
+  },
+  "OOP": {
+    "course": "Object-Oriented Programming",
+    "project": "Bank Management System",
+    "difficulty": "Beginner"
+  },
+  "Communication": {
+    "course": "Business Communication",
+    "project": "Technical Presentation",
+    "difficulty": "Beginner"
+  },
+  "Problem Solving": {
+    "course": "Problem Solving",
+    "project": "50 LeetCode Problems",
+    "difficulty": "Intermediate"
+  },
+  "Critical Thinking": {
+    "course": "Critical Thinking",
+    "project": "Case Study Analysis",
+    "difficulty": "Intermediate"
+  },
+  "Time Management": {
+    "course": "Productivity Skills",
+    "project": "Weekly Learning Planner",
+    "difficulty": "Beginner"
+  },
+  "Leadership": {
+    "course": "Leadership Skills",
+    "project": "Lead a Team Project",
+    "difficulty": "Intermediate"
+  },
+  "Teamwork": {
+    "course": "Team Collaboration",
+    "project": "Open Source Contribution",
+    "difficulty": "Intermediate"
+  },
+  "REST API": {
+    "course": "REST API Development",
+    "project": "Resume Analyzer API",
+    "difficulty": "Intermediate"
+  },
+  "Streamlit": {
+    "course": "Streamlit Fundamentals",
+    "project": "AI Resume Analyzer Dashboard",
+    "difficulty": "Beginner"
+  },
+  "Prompt Engineering": {
+    "course": "Prompt Engineering",
+    "project": "AI Career Assistant",
+    "difficulty": "Intermediate"
+  },
+  "Generative AI": {
+    "course": "Generative AI Fundamentals",
+    "project": "AI Chatbot using Gemini API",
+    "difficulty": "Intermediate"
+}
+}
