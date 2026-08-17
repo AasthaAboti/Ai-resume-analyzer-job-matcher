@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI RESUME AND JOB ANALYSER</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <nav class="navbar">
+
+    <h2>AI Resume Analyzer</h2>
+
+    <div class="nav-links">
+        <a href="#">Home</a>
+        <a href="#">About Us</a>
+    </div>
+
+</nav>
+    <main>
+        <section class="main">
+        <h1> Analyze your resume and get your Dream JOB</h1>
+        <p>Get your resume analyzed, find missing skills, and discover suitable job roles.</p>
+        <form action="/analyze" method="POST" enctype="multipart/form-data">
+    <div class="resume-upload">
+        <input type="file" name="resume" accept=".pdf">
+        <button type="submit" class="analyze-btn">Analyze Resume</button>
+    </div>
+</form>
+        </section>
+        <section class="features">
+            <h2> What are AI resume analyzer provide</h2>
+            <div class="feature-container">
+            <div class="feature-card">
+            <h3>ATS Score</h3>
+            <p>An ATS score is a number from 0 to 100% that shows how well your resume matches a specific job description.</p>
+            </div>
+            <div class="feature-card">
+            <h3>Role recommendation</h3>
+            <p>gives personalized role recommendation based on your resume</p>
+            </div>
+            <div class="feature-card">
+            <h3>Companies Recommendation</h3>
+            <p>provides you personalized suggestion of companies that best suits your resume and intrest</p>
+            </div>
+            <div class=" feature-card">
+            <h3>Missing Skills</h3>
+            <p>Tells you what skills are missing in your resume</p>
+            </div>
+            <div class="feature-card">
+            <h3>Resume Formatting</h3>
+            <p>your resume will be formatted in standarized form</p>
+             </div>
+             </div>
+        </section>
+        <section class="how-it-works">
+            <h2>How It Works</h2>
+            <div class="steps-container">
+        <div class="steps">
+        <h3>Upload Resume</h3>
+        <p>Select your resume pdf</p>
+        </div>
+        <div class="steps">
+        <h3>Analyze Resume</h3>
+        <p>Our analyzer checks your skills and resume.</p>
+        </div>
+        <div class="steps">
+        <h3>Get results</h3>
+        <p>See your ATS score, job matches ,company recommendations and missing skills.</p>
+    </div>
+    </div>
+    </section>
+    </main>
+    <footer class="footer">
+    <p>AI Resume Analyzer</p>
+    <p>Analyze. Improve. Get Hired.</p>
+</footer>
+</body>
+</html>
+
+

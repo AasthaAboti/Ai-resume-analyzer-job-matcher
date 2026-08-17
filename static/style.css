@@ -1,0 +1,228 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+     background-color: #ECDFCC;
+    color: #181C14;
+}
+.main {
+    text-align: center;
+    padding: 20px 20px 10px;
+    color: #181C14;
+    margin:15px;
+}
+
+.main h1 {
+     color: #181C14;
+    max-width: 700px;
+    margin: 0 auto 10px;
+    padding-top: 5 30 5;
+
+}
+
+.main p {
+    color: #3C3D37;
+    max-width: 600px;
+    margin: 0 auto 25px;
+    line-height: 1.6;
+}
+.resume upload{
+    margin-top: 40px;
+}
+.analyze-btn {
+    padding: 12px 25px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    
+}
+.analyze-btn:hover {
+    background-color: black;
+    color: white;
+    transition-duration: 2s;
+    transform: translateY(5px);
+}
+button {
+    background-color: #43443f;
+    color: #ECDFCC;
+    border: none;
+    padding: 12px 25px;
+    border-radius: 8px;
+    font-size: 16px;
+    cursor: pointer;
+}
+.features{
+    text-align: center;
+    padding-bottom: 5px;
+}
+
+.feature h2{
+    padding:40px 20px 30px
+}
+.feature-container {
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 15px;
+    justify-content: center;
+}
+.feature-card {
+    width: 180px;
+    min-height: 180px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 12px;
+    box-sizing: border-box;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    background-color: #202218;
+    color: #ECDFCC;
+}
+.feature-card:nth-child(2) {
+    transform: translateY(40px);
+    
+}
+.feature-card:nth-child(even) {
+    background-color: #1f221f;
+}
+.feature-card:nth-child(4) {
+    transform: translateY(40px);
+}
+.feature-card:nth-child(2):hover{
+transform: translateY(-5px);
+transition-duration:1s;
+ background-color:#202218;
+ transition: background-color 0.3s ease;
+}
+.feature-card:nth-child(4):hover{
+transform: translateY(-5px);
+transition-duration:1s;
+background-color:#202218;
+ transition: background-color 0.3s ease;
+}
+.feature-card h3 {
+    margin-top: 0;
+    margin-bottom: 12px;
+    font-size: 20px;
+    color: #ECDFCC;
+}
+.feature-card p {
+    line-height: 1.5;
+    margin: 0;
+    color: #ECDFCC;
+}
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:15px 40px;
+    background-color: #181C14;
+}
+.navbar h2,
+.nav-links a {
+    color: #ECDFCC;
+}
+.nav-links {
+    display: flex;
+    gap: 25px;
+}
+.nav-links a{
+    text-decoration: none;
+}
+.nav-links a:hover {
+    opacity: 0.7;
+}
+.navbar h2 {
+    margin: 0;
+}
+
+section {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 60px 20px;
+}
+.how-it-works {
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+.how-it-works .steps-container {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.footer {
+    text-align: center;
+    padding: 10px 10px;
+    margin-top: 5px;
+}
+.footer {
+    border-top: 1px solid #ddd;
+}
+.steps-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 70px;
+}
+.steps {
+    text-align: center;
+    width: 220px;
+    min-height: 150px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 12px;
+    box-sizing: border-box;
+    position: relative;
+}
+.steps {
+    text-align: center;
+    width: 220px;
+    min-height: 150px;
+    padding: 20px;
+    box-sizing: border-box;
+    border: 4px solid #0d0e0d;
+    border-radius: 15px;
+    background-color: #ECDFCC;
+    color: #181C14;
+    position: relative;
+    transition: transform 0.2s ease;
+}
+.steps h3 {
+    color: #3C3D37;
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+
+.steps p {
+    color: #3C3D37;
+    margin: 0;
+    line-height: 1.5;
+}
+.steps:not(:last-child)::after {
+    content: "→";
+    position: absolute;
+    right: -65px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 30px;
+    font-weight: bold;
+}
+.steps h3 {
+    margin-top: 0;
+    margin-bottom: 15px;
+    font-size: 20px;
+}
+.steps p {
+    margin: 0;
+    line-height: 1.5;
+}
+.steps:hover {
+    transform: translateY(-15px);
+}
+.footer {
+    background-color: #181C14;
+    color: #ECDFCC;
+    text-align: center;
+    padding: 30px 20px;
+    margin-top: 40px;
+    border-top: none;
+}
